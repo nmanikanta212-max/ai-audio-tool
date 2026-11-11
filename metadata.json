@@ -1,0 +1,6 @@
+{
+  "name": "VoxInfinite - Free AI Audio Series Studio",
+  "description": "Generate unlimited text to AI speech, multi-speaker dialogues, and audio series in any language with zero credit limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
